@@ -1,6 +1,6 @@
 # 👨‍💻 Carlos Rony
 
-**`Desenvolvedor Front-end`**
+**`Desenvolvedor Front-end`** **`Desenvolvedor FullStack`** **`Técnico em Informática`**
 <hr>
 Com 21 anos, possuo formação técnica em informática tendo desenvolvido uma solução criativa para uma demanda social, o que gerou um interesse pela área de desenvolvimento web. Durante o formação técnica participei de aplicações web para projetos sociais utilizando as linguagens HTML, CSS, JavaScript, PHP, MySQL. Logo depois, optei por me aperfeiçoar, especializando em Análise e Desenvolvimento de Sistemas desenvolvendo aplicações que me proporcionam habilidades em HTML, CSS, Bootstrap, Angular. 
 
@@ -41,3 +41,9 @@ Com 21 anos, possuo formação técnica em informática tendo desenvolvido uma s
   />
 
 </p>
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/carlos-rony-recla-filho/carlos-rony-recla-filho/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/carlos-rony-recla-filho/carlos-rony-recla-filho/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/carlos-rony-recla-filho/carlos-rony-recla-filho/output/github-contribution-grid-snake.svg">
+</picture>
