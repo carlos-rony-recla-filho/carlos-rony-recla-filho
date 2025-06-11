@@ -1,4 +1,8 @@
-## 👨‍💻 eu sou a Carlos Rony, programador Front end e técnico em informática!
+# 👨‍💻 Carlos Rony
+
+**`Desenvolvedor Front-end`**
+<hr>
+Com 21 anos, possuo formação técnica em informática tendo desenvolvido uma solução criativa para uma demanda social, o que gerou um interesse pela área de desenvolvimento web. Durante o formação técnica participei de aplicações web para projetos sociais utilizando as linguagens HTML, CSS, JavaScript, PHP, MySQL. Logo depois, optei por me aperfeiçoar, especializando em Análise e Desenvolvimento de Sistemas desenvolvendo aplicações que me proporcionam habilidades em HTML, CSS, Bootstrap, Angular. 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Carlos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
